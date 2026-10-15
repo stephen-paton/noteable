@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="paperPatch" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#fee47d" />
+      <stop offset="0.55" stop-color="#fee179" />
+      <stop offset="1" stop-color="#f9d875" />
+    </linearGradient>
+  </defs>
+  <g fill="url(#paperPatch)">
+    <ellipse cx="91" cy="95" rx="18" ry="16" />
+    <ellipse cx="181" cy="95" rx="18" ry="16" />
+    <ellipse cx="132" cy="127" rx="35" ry="18" />
+  </g>
+  <g fill="#fff7df" stroke="#24191e" stroke-width="3.5">
+    <ellipse cx="91" cy="96" rx="8.5" ry="11.5" />
+    <ellipse cx="181" cy="96" rx="8.5" ry="11.5" />
+  </g>
+  <g fill="#24191e">
+    <ellipse cx="92" cy="98" rx="3.5" ry="5.2" />
+    <ellipse cx="182" cy="98" rx="3.5" ry="5.2" />
+  </g>
+  <g fill="#fff">
+    <circle cx="90.5" cy="95.5" r="1.6" />
+    <circle cx="180.5" cy="95.5" r="1.6" />
+  </g>
+  <ellipse cx="132" cy="127" rx="9.5" ry="13.5" fill="#24191e" />
+  <ellipse cx="132" cy="134" rx="4.5" ry="3" fill="#ef8e86" />
+</svg>
